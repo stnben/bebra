@@ -1,9 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.scss';
-import NavigationBar from './components/Navbar';
+import Navbar from './components/Navbar';
 import LandingPage from './components/LandingPage';
 import InterviewSimulation from './components/InterviewSimulation';
+
 
 
 
